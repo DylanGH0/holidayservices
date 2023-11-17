@@ -1,1 +1,0 @@
-self.__SSG_MANIFEST=new Set(["\u002Faffitti\u002F[residenceLink]","\u002Fvendita\u002F[apartmentLink]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
